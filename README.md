@@ -4,7 +4,7 @@ Final Project of CIE6053 at CUHK(SZ) <br />
 调研公司 前沿技术汇报 <br />
 RISC-V <br />
 
-每个人弄一个简略的版本发出来，自己留比较充裕的版本。 <br />
+每个人弄一个简略的版本发出来（类似于abstract），自己留比较充裕的版本。 <br />
 
 资料：
 https://deep-learning.feishu.cn/wiki/ZzYvwIjsuie4CLkcvTOcxVgVneE <br />
