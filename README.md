@@ -14,7 +14,7 @@ https://riscv.org/blog/how-nvidia-shipped-one-billion-risc-v-cores-in-2024/ <br 
 https://mp.weixin.qq.com/s/hSZpamUaFOga6QVayEo4Yw <br />
 
 
-分工：
+分工： DDL: Dec 6th, 23:59
 1. 技术
    1. 技术本身的介绍-技术历史 （周润东 陈禹杰）
    2. NV的应用 针对技术做了什么改进 （李彬豪 钟声）
@@ -25,3 +25,5 @@ https://mp.weixin.qq.com/s/hSZpamUaFOga6QVayEo4Yw <br />
    1. 历史
    2. 未来（市场机遇）
    3. 行业对比
+  
+Slides DDL: Dec 7th, 23:59
