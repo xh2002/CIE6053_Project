@@ -13,6 +13,7 @@ https://riscv.org/blog/how-nvidia-shipped-one-billion-risc-v-cores-in-2024/ <br 
 
 https://mp.weixin.qq.com/s/hSZpamUaFOga6QVayEo4Yw <br />
 
+https://www.cool3c.com/article/244652 <br />
 
 分工： DDL: Dec 6th, 23:59
 1. 技术
