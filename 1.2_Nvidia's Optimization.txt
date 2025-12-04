@@ -1,0 +1,18 @@
+Abstract: Nvidia's improvements
+
+
+At the Microarchitecture Level (Comparison with Falcon):
+NVIDIA enhances RISC-V by introducing dynamic branch prediction mechanisms (BTB, BHT, RAS) to significantly improve prediction accuracy.
+Compared with Falcon, NV-RISC-V supports out-of-order execution with ROB and upgrades memory protection to a more flexible Base-and-Bound + MPU system.
+
+Hardware Acceleration for AI and Computationally Intensive Tasks:
+NV-RISC-V adds a 1024-bit ultra-wide vector extension to greatly boost high-throughput vector computation performance.
+In the DLA, the RISC-V core is tightly integrated with specialized modules (Rubik, SDP, CfgDMA, CDP) to optimize deep-learning acceleration.
+
+System-level Interconnect and Security Architecture: 
+NVIDIA’s Peregrine subsystem built for RISC-V cores focuses on enhancing security and interconnectivity;
+its self-developed IOPMP ensures secure memory access for devices, and the unified secure debugging integrates ICD and ROM protection to prevent physical attacks.
+
+Software Stack: 
+Hardware improvements require software adaptation, prompting NVIDIA to carry out targeted compiler optimizations; 
+the DLA compiler’s node fusion boosts computing efficiency, and the adoption of Ada/Spark technology supports the development of high-security firmware.
