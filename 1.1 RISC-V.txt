@@ -1,0 +1,17 @@
+Concise Core Summary of RISC-V
+I. Core Positioning
+The world’s first open-source and free Instruction Set Architecture (ISA), deployed in 13 billion chips globally, with an ecosystem covering 70 countries and over 4,200 member units. Centered on "open-source freedom + modular flexibility," it is a key force to break the deadlock in the semiconductor industry.
+II. Key Development Milestones
+Technical Foundation: Built on nearly 40 years of RISC technology accumulation at UC Berkeley, underpinned by four generations of academic architectures.
+Major Milestones: Launched in 2010; first commercial product shipped in 2014; foundation established in 2015; expanded to multiple scenarios post-2020; focusing on breakthroughs in AI acceleration and servers during 2024-2025.
+III. Core Technical Advantages
+Modular Instruction Set: Base + extended + custom modules, adaptable to diverse scenarios on demand.
+Open-Source & Free: No licensing fees, enabling efficient community-driven iteration.
+Cross-Scenario Adaptability: Full coverage from embedded (low power consumption) to servers (high performance).
+Multi-Core Heterogeneity: Supports collaboration between CPUs, GPUs, and NPUs, meeting AI-era demands.
+IV. Main Application Scenarios
+Embedded/AIoT (smart homes, industrial control, etc.), AI computing (edge and cloud-based large-model inference), servers (breaking x86/ARM monopoly), consumer electronics, and space exploration.
+V. Ecosystem & Prospects
+Ecosystem: Globally led by RISC-V International, with participation from Nvidia, Intel, etc.; Chinese enterprises (Alibaba, Huawei, etc.) lead the entire industrial chain.
+Market: Projected 25.7% SoC penetration rate by 2031; AI acceleration chips as the core growth driver (market size of USD 420 billion by 2030).
+Challenges & Trends: Faces issues like immature software ecosystem and fragmentation; future development focuses on high performance, deep AI integration, and enhanced ecological collaboration.
